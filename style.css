@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    align-content: center;
+}
+.b {
+    text-align: center;
+    color: aliceblue;
+    background-image: linear-gradient(to bottom, #5fff15, #2c7700 );
+    height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.whatsap {
+    width: 50%;
+    height: 50%;
+}
